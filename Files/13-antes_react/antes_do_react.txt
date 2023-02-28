@@ -1,0 +1,19 @@
+	Sobre JasvaScript antes do React
+
+	ECMAScript é um padrão seguido várias outras linguagens de programação como JavaScript, por exemplo.
+
+	O ECMAScript cria constantemente novas implementações as quais os browsers, muitas vezes, ainda não estão 'preparados' para entende-las. Daí a necessidade do uso de 'Copiladores de Código' que transformam os códigos de um formato para outro, como por exemple o 'Babel'
+	Para arquivos a conversão para 'bundles'(um arquivo que contém vários arquivos) é feita, por exemplo, pelo 'Webpack'
+	Para fazer a conversão já com a copilação por baixo dos panaos, hoje existe uma ferramenta muito eficaz chamada 'esbuild'
+
+	01-nullish colescing operator
+	02-Desestruturação:
+		-em uma função, nos parâmetros que recebe um objeto.
+		-em variáveis
+		-dentro de construtores
+		-em métodos
+	03-rest operator
+	04-short syntax
+	05-optional chaining
+	06-métodos (map, filter, every, some, findIndex, reduce)
+	

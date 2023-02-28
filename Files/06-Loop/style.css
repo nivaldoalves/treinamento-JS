@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 62.5%;
+}
+
+body * {
+    font-family: sans-serif;
+}
+
+body {
+    text-align: center;
+    font-size: 1.6rem;
+}
+
+p {
+    margin-top: 10px;
+}
+
+select {
+    margin-top: 10px;
+}
