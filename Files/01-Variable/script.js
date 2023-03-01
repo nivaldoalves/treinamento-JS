@@ -5,22 +5,22 @@
 var n1 = 3
 var n2 = 2
 var res = n1 + n2
-console.log(res,'-',typeof res)
+console.log(res, '-', typeof res)
 
 //String
 
 const x = 'javascript'
-console.log(x,'-',typeof x)
+console.log(x, '-', typeof x)
 
 //boolean
 
 let y = false
-console.log(y,'-',typeof y)
+console.log(y, '-', typeof y)
 
 //undefined
 
 let nul
-console.log(nul,"-",typeof nul)
+console.log(nul, "-", typeof nul)
 
 //array
 
@@ -36,7 +36,9 @@ console.log(`O tipo é: ${typeof carro}, o ano é: ${carro.fabr} e a cor é: ${c
 
 //function
 
-var soma = function(a,b){
+var soma = function (a, b) {
     return a + b
 }
-console.log(`O tipo é: ${typeof soma} e o resultado da soma é: ${soma(3,2)}`)
+console.log(`O tipo é: ${typeof soma} e o resultado da soma é: ${soma(3, 2)}`)
+
+//teste
