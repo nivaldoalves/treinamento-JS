@@ -40,5 +40,3 @@ var soma = function (a, b) {
     return a + b
 }
 console.log(`O tipo é: ${typeof soma} e o resultado da soma é: ${soma(3, 2)}`)
-
-//teste
