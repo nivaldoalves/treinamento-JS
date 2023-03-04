@@ -1,4 +1,4 @@
-//Variables (typeof)
+//Variables / Tipos de dados / typeof
 
 //Number
 
@@ -19,8 +19,8 @@ console.log(y, '-', typeof y)
 
 //undefined
 
-let nul
-console.log(nul, "-", typeof nul)
+let a
+console.log(a, "-", typeof a)
 
 //array
 
